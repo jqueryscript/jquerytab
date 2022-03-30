@@ -1,7 +1,7 @@
 /*
 Author: Dharma Poudel (@rogercomred)
 Description: Yet another jQuery tabs plugin with unlimited animations and transitions.
-Version: 2.0
+Version: 2.0.1
 License:  GPLv3 ( http://www.gnu.org/licenses/gpl-3.0.html )
 */
 
